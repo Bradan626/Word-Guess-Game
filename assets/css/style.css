@@ -1,0 +1,12 @@
+p {
+    color:purple;
+}
+
+.container {
+    background-color: darkgrey;
+}
+.wrapper {
+    padding: 20px;
+    background-color: darkgrey;
+    color: lightskyblue;
+}
